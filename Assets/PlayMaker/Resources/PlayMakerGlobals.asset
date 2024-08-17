@@ -33,3 +33,6 @@ MonoBehaviour:
     variableCategoryIDs: 
   events:
   - mousePick
+  - IsHeld
+  - Eaten
+  - Dead
