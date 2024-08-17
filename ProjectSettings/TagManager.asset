@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - ingredient
+  - meal
   layers:
   - Default
   - TransparentFX
@@ -12,7 +13,7 @@ TagManager:
   - People
   - Water
   - UI
-  - 
+  - Pickable
   - 
   - 
   - 
