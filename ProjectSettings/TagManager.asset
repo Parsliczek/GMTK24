@@ -6,6 +6,7 @@ TagManager:
   tags:
   - ingredient
   - meal
+  - Belly
   layers:
   - Default
   - TransparentFX
