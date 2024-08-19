@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 321267048120330013}
   - component: {fileID: 120088372806362299}
   m_Layer: 3
-  m_Name: Person
+  m_Name: Person2
   m_TagString: ingredient
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80,7 +80,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: f7690fd5fef4f3049b978b4ea37b075a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 87974d0ed6f459149bd2384f4e120606, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -127,7 +127,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.99, y: 3.55}
+    oldSize: {x: 2.37, y: 2.66}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1084,7 +1084,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           typeName: UnityEngine.Sprite
-          value: {fileID: 21300000, guid: 5b366f42a4c179f439f562b154688e2f, type: 3}
+          value: {fileID: 21300000, guid: be096763c3401954c83f7f5a0fc174b2, type: 3}
         fsmVarParams: []
         fsmArrayParams: []
         fsmEnumParams: []
@@ -1244,12 +1244,6 @@ MonoBehaviour:
         showInInspector: 0
         networkSync: 0
         value: {fileID: 0}
-      - useVariable: 1
-        name: demon
-        tooltip: 
-        showInInspector: 0
-        networkSync: 0
-        value: {fileID: 0}
       objectVariables: []
       materialVariables: []
       textureVariables: []
@@ -1257,7 +1251,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 0000000000000000
+      variableCategoryIDs: 00000000
     description: 
     docUrl: 
     showStateLabel: 0
@@ -1381,7 +1375,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           typeName: UnityEngine.Sprite
-          value: {fileID: 21300000, guid: f7690fd5fef4f3049b978b4ea37b075a, type: 3}
+          value: {fileID: 21300000, guid: 87974d0ed6f459149bd2384f4e120606, type: 3}
         fsmVarParams: []
         fsmArrayParams: []
         fsmEnumParams: []
@@ -1480,7 +1474,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           typeName: UnityEngine.Sprite
-          value: {fileID: 21300000, guid: e6e99753b247a6f46abf3ad7d93347bf, type: 3}
+          value: {fileID: 21300000, guid: 00d47bf13a502894e9befece753e61bc, type: 3}
         fsmVarParams: []
         fsmArrayParams: []
         fsmEnumParams: []

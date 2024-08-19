@@ -3280,7 +3280,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: Street
+          value: Level_2
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -8555,7 +8555,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.41509432, g: 0.33090067, b: 0.39501452, a: 0}
+  m_BackGroundColor: {r: 0.509434, g: 0.28605497, b: 0.2042542, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
