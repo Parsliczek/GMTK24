@@ -244,13 +244,13 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.25
+          value: 0.3
         - useVariable: 0
           name: 
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 1.5
+          value: 1.25
         fsmIntParams: []
         fsmBoolParams: []
         fsmVector2Params: []
