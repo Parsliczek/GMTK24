@@ -370,7 +370,7 @@ MonoBehaviour:
         - useVariable: 1
           name: foodObjects
           tooltip: 
-          showInInspector: 0
+          showInInspector: 1
           networkSync: 0
           type: 3
           objectTypeName: UnityEngine.Object
@@ -383,6 +383,12 @@ MonoBehaviour:
           - {fileID: 8705324617113584483, guid: c22b07529ce06854db01a7275ab2fa83, type: 3}
           - {fileID: 3007791068189391063, guid: ddf00c742610ebc46b5eb5fc65337f27, type: 3}
           - {fileID: 678383390628244957, guid: 7034fb979d58cbe41a5fd1f4fd0adc57, type: 3}
+          - {fileID: 8705324617113584483, guid: 0a5204fb1daeafc44abdd0f7730ef504, type: 3}
+          - {fileID: 8705324617113584483, guid: 8c4b23e3cd8f53f4eb3c8f3e3e969c3a, type: 3}
+          - {fileID: 3007791068189391063, guid: e0fd6ff42e79ef94e9fd141d2eb3251c, type: 3}
+          - {fileID: 3007791068189391063, guid: 6d122ec8aa660ef4496b1344ed4cf59c, type: 3}
+          - {fileID: 678383390628244957, guid: 841b8cec50f76e64ba7f52ce4a4d5090, type: 3}
+          - {fileID: 678383390628244957, guid: 7c40bd68a77f9d14a88f6b204dc06706, type: 3}
         fsmEnumParams: []
         fsmFloatParams: []
         fsmIntParams:
@@ -1452,7 +1458,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 56
-        y: 164
+        y: 132
         width: 102
         height: 32
       isBreakpoint: 0
@@ -1526,7 +1532,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 212
-        y: 156
+        y: 113
         width: 100
         height: 48
       isBreakpoint: 0
@@ -1656,8 +1662,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 350
-        y: 59.984375
+        x: 377.02344
+        y: 61.984375
         width: 100
         height: 48
       isBreakpoint: 0
@@ -1754,8 +1760,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 341.96094
-        y: 163.5
+        x: 376.98438
+        y: 188.5
         width: 100
         height: 32
       isBreakpoint: 0
@@ -1779,7 +1785,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101
-        actionIsOpen: 0101
+        actionIsOpen: 0100
         actionStartIndex: 000000000b000000
         actionHashCodes: 7a40870134b46c04
         unityObjectParams: []
@@ -1816,7 +1822,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.3
+          value: 1
         - useVariable: 0
           name: 
           tooltip: 
@@ -1897,8 +1903,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 492.02344
-        y: 109
+        x: 513.0469
+        y: 115
         width: 103
         height: 32
       isBreakpoint: 0
